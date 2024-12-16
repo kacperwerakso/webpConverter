@@ -1,0 +1,1 @@
+A small yet highly useful program that streamlines the process of publishing images on websites. Converting images to the .webp format minimizes their size, significantly reducing the load on the website.
